@@ -1,5 +1,6 @@
 Alchera's Public Demo Apps
 ==========================
+All apks will be expired in 30 June 2018
 
 Panda
 -----
@@ -13,4 +14,11 @@ Face Landmark
 Shows facial landmarks
 
 - FaceMarkAndroid.apk
-![AlcheraFaceMark](figs/AlcheraFaceMark.jpg)
+![AlcheraFaceMark Screenshot](figs/AlcheraFaceMark.jpg)
+
+Hand 3D Skeleton
+----------------
+Shows 3D Hand Skeleton
+
+- AlHand3D_Android.apk
+![AlHand3D Screenshot](figs/AlHand3D.jpg)
