@@ -1,24 +1,18 @@
 Alchera's Public Demo Apps
 ==========================
-All apks will be expired in 30 June 2018
+All apks will be expired in 30 September 2018
 
 Panda
 -----
 Animoji Demo
 
-- PandaAndroid.apk
-![Panda Screenshot](figs/Panda.jpg)
+- PandaDemo_Android.apk
+![Panda Screenshot](figs/PandaDemo.jpg)
 
-Face Landmark
+Face and Hand Demo 
 -------------
-Shows facial landmarks
+Shows facial landmarks and Hand Skeleton or Posture Recognition 
 
-- FaceMarkAndroid.apk
-![AlcheraFaceMark Screenshot](figs/AlcheraFaceMark.jpg)
+- AlcheraDemo_Android.apk
+![AlcheraDemo Screenshot](figs/AlcheraDemo.jpg)
 
-Hand 3D Skeleton
-----------------
-Shows 3D Hand Skeleton
-
-- AlHand3D_Android.apk
-![AlHand3D Screenshot](figs/AlHand3D.jpg)
